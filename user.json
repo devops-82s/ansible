@@ -1,0 +1,20 @@
+{
+    "name": "sukanya",
+     "email": "polakamssm5@gmail.com",
+     "addresses":
+    [
+        {
+            "type": "perm",
+            "doorno":"123",
+            "street":"c camp",
+            "city":"chirala" 
+        },
+        {
+            "type": "curr",
+            "doorno":"123",
+            "street":"c camp",
+            "city": "chirala"
+        } 
+    ]
+}      
+

@@ -1,0 +1,27 @@
+- name: sukanya
+  email: polakamssm5@gmail.com
+  addresses:
+  - type: perm
+    doorno: 123
+    street: "c camp"
+    city: chirala
+  -  
+  - type: current
+    doorno: 123
+    street: "c camp"
+    city: chirala
+  -
+   name: sukanya
+  email: polakamssm5@gmail.com
+  addresses:
+  - type: perm
+    doorno: 123
+    street: "c camp"
+    city: chirala
+  -  
+  - type: perm
+    doorno: 123
+    street: "c camp"
+    city: chirala
+  -
+-  

@@ -1,0 +1,44 @@
+<student>
+    <student>
+        <name> sukanya</name>
+         <email>polakamssm5@gmail.com</email>   
+         <addresses> 
+            <permaddress>
+                <doorno>123</doorno>
+                <street>gandi nagar</street>
+            </permaddress>
+            <currentaddress>
+                <doorno>123</doorno>
+                <street>gandi nagar</street>       
+             </currentaddress>
+         </addresses>
+    </student>            
+    <student>
+        <name> sukanya</name>
+         <email>polakamssm5@gmail.com</email>   
+         <addresses> 
+            <permaddress>
+                <doorno>123</doorno>
+                <street>gandi nagar</street>
+            </permaddress>
+            <currentaddress>
+                <doorno>123</doorno>
+                <street>gandi nagar</street>       
+             </currentaddress>
+         </addresses>
+    </student>    
+    <student>
+        <name> sukanya</name>
+         <email>polakamssm5@gmail.com</email>   
+         <addresses> 
+            <permaddress>
+                <doorno>123</doorno>
+                <street>gandi nagar</street>
+            </permaddress>
+            <currentaddress>
+                <doorno>123</doorno>
+                <street>gandi nagar</street>       
+             </currentaddress>
+         </addresses>
+    </student>            
+</student>            
