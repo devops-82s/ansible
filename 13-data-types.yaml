@@ -4,11 +4,11 @@
   vars:
     course_name: "Devops with aws"  # string
     duration: 120  #int
-    topics: 
-    -linux
-    -shell
-    -ansible
-    -Aws
+    topics: # list
+    - linux
+    - shell
+    - ansible
+    - Aws
     live: true  # boolean
     tools:  # map
       ci: jenkins
